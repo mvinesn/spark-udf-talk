@@ -15,7 +15,7 @@ This is intended to be used with the Climate Change: Earth Surface Temperature D
 
 By default only one of the tables in the dataset is loaded. Feel free to experiment further.
 
-If you find an error, let me know!
+If you find an error, write me an email: mvinesn@gmail.com
   
 
 
