@@ -16,3 +16,6 @@ project/target/
 
 /metastore_db/
 derby.log
+
+*.csv
+spark_warehouse/
